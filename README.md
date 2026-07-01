@@ -18,10 +18,9 @@
 - 🎓 **Information Systems** student at **Telkom University**
 - 🧾 Passionate about **Accounting Information Systems (SIA)** & **IT Governance (COBIT)**
 - 💻 Building web apps with **Next.js, React, Prisma & Tailwind**
-- 📊 Working with **ERP systems** (Odoo, Oracle NetSuite) & data tooling
+- 📊 Working with **ERP systems**  & data tooling
 - 🚀 Creating **digital products** & **automation** on the side
 - 🌐 Comfortable in **Bahasa Indonesia** & **English**
-- ⚡ *Fun fact:* Suka bikin sistem yang rapi, efisien, dan scalable
 
 ```yaml
 Anggara Rizal Febriansyah:
